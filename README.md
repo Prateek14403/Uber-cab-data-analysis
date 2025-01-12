@@ -1,5 +1,5 @@
-# Uber-cab-data-analysis
-![Uploading 402368869-8ab64616-8a8a-4049-9c2f-870407d5f06e.png…]()
+# Uber-cab-data-analysis![1000001645](https://github.com/user-attachments/assets/a010028d-05d3-4fd1-8d19-bf77dcd82afb)
+
 The **Uber Cab Data Analysis** project involves a comprehensive examination of various metrics related to Uber ride services. The project focuses on cleaning and analyzing data to derive actionable insights that help in understanding customer behavior, ride patterns, and operational efficiency.
 . 
 
